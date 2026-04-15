@@ -47,6 +47,9 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        "chart-knn": "hsl(var(--chart-knn))",
+        "chart-rf": "hsl(var(--chart-rf))",
+        "chart-hybrid": "hsl(var(--chart-hybrid))",
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
